@@ -49,7 +49,7 @@ A beautiful, interactive web application for discovering and tracking movies. Br
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-selector.git
+   git clone https://github.com/Lieless-x/movie-selector.git
    cd movie-selector
    ```
 
